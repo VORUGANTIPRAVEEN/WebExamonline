@@ -1,0 +1,12 @@
+.user_data{
+    display: flex;
+    height: fit-content;
+    width: 94%;
+    align-items: center;
+    flex-direction: column;
+}
+.border_box{
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 30%;
+}

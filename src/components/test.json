@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "qus":"An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options":["144°","150","168°","180°"],
+        "Ans":"180°"
+    },{
+        "id":2,
+        "qus":"A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:?",
+        "options":["145°","150°","155°","160°"],
+        "Ans":"155°"
+    }, {
+        "id":3,
+        "qus":"An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options":["144°","150","168°","180°"],
+        "Ans":"180°"
+    },{
+        "id":4,
+        "qus":"A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:?",
+        "options":["145°","150°","155°","160°"],
+        "Ans":"155°"
+    },{
+        "id":5,
+        "qus":"An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options":["144°","150","168°","180°"],
+        "Ans":"180°"
+    },{
+        "id":6,
+        "qus":"A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:?",
+        "options":["145°","150°","155°","160°"],
+        "Ans":"155°"
+    }, {
+        "id":7,
+        "qus":"An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options":["144°","150","168°","180°"],
+        "Ans":"180°"
+    },{
+        "id":8,
+        "qus":"A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:?",
+        "options":["145°","150°","155°","160°"],
+        "Ans":"155°"
+    },{
+        "id":9,
+        "qus":"An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options":["144°","150","168°","180°"],
+        "Ans":"180°"
+    },{
+        "id":10,
+        "qus":"A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:?",
+        "options":["145°","150°","155°","160°"],
+        "Ans":"155°"
+    }
+]

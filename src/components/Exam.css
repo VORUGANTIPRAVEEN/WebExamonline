@@ -1,0 +1,53 @@
+.left_list{
+ border-top: 10%;
+ width: 70%;
+ height: 100vh;
+ background-color: black;
+ color: white;
+}
+.left_list::-webkit-scrollbar {
+    width: 10px;
+}
+.fill_window{
+ width: 100%;
+ height: auto;
+ display: flex;
+}
+.right_list{
+  border-top: 10%;
+  width: 30%;
+  height: 100vh;
+  color: black;
+  background-color: azure;
+}
+.next_btn{
+   
+    float: right;
+}
+.btn_div{
+   margin-top: 50vh;
+    flex-direction: column-reverse;
+}
+.webcam{
+    width: 100% !important;
+    height: 30% !important;
+}
+.q_numbers{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.q_numbers button{
+   width: 80px;
+   margin: 20px;
+}
+.q_div{
+    line-height: 40px;
+}
+.fill-window {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
